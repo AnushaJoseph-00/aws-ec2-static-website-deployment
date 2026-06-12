@@ -62,7 +62,7 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 ## 📸 Screenshots
 
 ### Website Homepage
-![Homepage Screenshot](Website.png.png)
+![Homepage Screenshot](Screenshot 2026-06-12 162859.png)
 
 ### EC2 Instance Running
 ![EC2 Instance](Instance_Running.jpeg)
