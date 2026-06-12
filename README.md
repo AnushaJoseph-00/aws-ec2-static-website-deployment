@@ -6,7 +6,7 @@ This project demonstrates deploying a static website on an AWS EC2 instance runn
 
 ## Project Description
 
-A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed on an AWS EC2 (Ubuntu) instance. The workflow involved:
+A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed on an AWS EC2 (Ubuntu) instance. The workflow follows:
 
 - Launching an EC2 instance (Ubuntu 24.04 LTS)
 - Connecting to the instance via SSH
@@ -19,11 +19,11 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 
 ## Tech Stack
 
-Cloud Platform: AWS (EC2)
-Operating System: Ubuntu 24.04 LTS
-Web Server: Apache2
-Website Source: Tooplate "Barista Cafe" template (HTML, CSS, JavaScript)
-Access Method: SSH
+- Cloud Platform: AWS (EC2)
+- Operating System: Ubuntu 24.04 LTS
+- Web Server: Apache2
+- Website Source: Tooplate "Barista Cafe" template (HTML, CSS, JavaScript)
+- Access Method: SSH
 
 ## Steps Followed
 
