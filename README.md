@@ -30,7 +30,7 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 1. Launched an EC2 instance with Ubuntu 24.04 in Git Bash
  
 2. Connected to the instance via SSH:
-   - ssh -i key-pair.pem ubuntu@<ec2-public-ip>
+   - ssh -i key-pair.pem ubuntu@`<ec2-public-ip>`
 
 3. Switched to root and installed Apache2:
    sudo -i
@@ -55,7 +55,7 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 9. Updated the EC2 security group to allow inbound traffic on port 80 (HTTP)
 
 10. Verified Apache was listening on port 80:
-   - ss -tunlp | grep apache2
+    - ss -tunlp | grep apache2
 
 11. Visited the EC2 instance's public IP in a browser to confirm the site was live
 
