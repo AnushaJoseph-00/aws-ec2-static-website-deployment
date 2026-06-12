@@ -17,13 +17,13 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 - Configuring the EC2 security group to allow inbound rules HTTP traffic (port 80)
 - Verifying the site was live and Apache was listening correctly
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-☁️ Cloud Platform: AWS (EC2)
-🐧 Operating System: Ubuntu 24.04 LTS
-🌐 Web Server: Apache2
-🎨 Website Source: Tooplate "Barista Cafe" template
-🔐 Access Method: SSH
+- ☁️ Cloud Platform: AWS (EC2)
+- 🐧 Operating System: Ubuntu 24.04 LTS
+- 🌐 Web Server: Apache2
+- 🎨 Website Source: Tooplate "Barista Cafe" template
+- 🔐 Access Method: SSH
 
 ## Steps Followed
 
@@ -59,13 +59,14 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 
 11. Visited the EC2 instance's public IP in a browser to confirm the site was live
 
-Key Takeaways
+## Key Takeaways
 
-Gained hands-on experience provisioning and managing an AWS EC2 instance
-Practised the full Linux command-line workflow for downloading, extracting, and deploying files on a remote server
-Configured Apache2 to serve static content
-Learned how AWS security groups control inbound network rules
-Understood the difference between static and dynamic websites, and why a static site requires no application server or database
+- Gained hands-on experience provisioning and managing an AWS EC2 instance
+- Practised the full Linux command-line workflow for downloading, extracting, and deploying files on a remote server
+- Configured Apache2 to serve static content
+- Learned how AWS security groups control inbound network rules
+- Understood the difference between static and dynamic websites, and why a static site requires no application server or database
 
-What This Mirrors in the Real World
+## What This Mirrors in the Real World Application
+
 This workflow reflects how many organisations host simple marketing sites, landing pages, or documentation portals before introducing more complex infrastructure (load balancers, containers, auto-scaling). It also represents the manual deployment process that typically precedes automation in a CI/CD pipeline.
