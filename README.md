@@ -17,13 +17,13 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 - Configuring the EC2 security group to allow inbound rules HTTP traffic (port 80)
 - Verifying the site was live and Apache was listening correctly
 
-## Tech Stack
+🛠️ Tech Stack
 
-- Cloud Platform: AWS (EC2)
-- Operating System: Ubuntu 24.04 LTS
-- Web Server: Apache2
-- Website Source: Tooplate "Barista Cafe" template (HTML, CSS, JavaScript)
-- Access Method: SSH
+☁️ Cloud Platform: AWS (EC2)
+🐧 Operating System: Ubuntu 24.04 LTS
+🌐 Web Server: Apache2
+🎨 Website Source: Tooplate "Barista Cafe" template
+🔐 Access Method: SSH
 
 ## Steps Followed
 
