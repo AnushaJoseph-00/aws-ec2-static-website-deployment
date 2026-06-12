@@ -27,6 +27,6 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 
 ## Steps Followed
 
-Launched an EC2 instance with Ubuntu 24.04 LTS
-Connected to the instance via SSH:
+1. Launched an EC2 instance with Ubuntu 24.04 LTS
+2. Connected to the instance via SSH:
 
