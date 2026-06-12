@@ -59,6 +59,19 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 
 11. Visited the EC2 instance's public IP in a browser to confirm the site was live
 
+## 📸 Screenshots
+
+### Website Homepage
+![Homepage Screenshot](Website.png)
+
+### EC2 Instance Running
+![EC2 Instance](Instance_Running.jpeg)
+
+### Security Group Inbound Rules
+![Security Group Rules](Inbound_Security_Rules.jpeg)
+
+
+
 ## Key Takeaways
 
 - Gained hands-on experience provisioning and managing an AWS EC2 instance
