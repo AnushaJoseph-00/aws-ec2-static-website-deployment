@@ -33,7 +33,7 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
    - ssh -i key-pair.pem ubuntu@`<ec2-public-ip>`
 
 3. Switched to root and installed Apache2:
-   sudo -i
+   - sudo -i
    - apt update && apt install apache2 -y
 
 4. Confirmed Apache2 was installed and running:
@@ -62,7 +62,7 @@ A responsive cafe website template ("Barista Cafe" from Tooplate) was deployed o
 ## 📸 Screenshots
 
 ### Website Homepage
-![Homepage Screenshot](Screenshot 2026-06-12 162859.png)
+![Homepage Screenshot](Website_Image.jpeg)
 
 ### EC2 Instance Running
 ![EC2 Instance](Instance_Running.jpeg)
